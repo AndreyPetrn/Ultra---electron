@@ -1,0 +1,43 @@
+{
+  "author": "Ultra",
+  "name": "e2e-tests",
+  "version": "0.0.1",
+  "description": "e2e-client-electron-playwright",
+  "scripts": {
+    "eslint:validate": "eslint . --ext .ts",
+    "eslint:fix": "eslint . --ext .ts --color --fix --quiet",
+    "test": "playwright test",
+    "test:wallet": "npx playwright test --grep @wallet",
+    "test:auth": "npx playwright test --grep @authentication",
+    "test:api": "npx playwright test --grep @api",
+    "test:demo": "npx playwright test --grep @demo",
+    "test:store": "npx playwright test --grep @store",
+    "posttest": "allure generate allure-results -o allure-report --clean"
+  },
+  "dependencies": {
+    "@faker-js/faker": "^8.1.0",
+    "@playwright/test": "^1.39.0",
+    "@tsconfig/recommended": "^1.0.1",
+    "@types/imap-simple": "^4.2.6",
+    "@types/text-encoding": "^0.0.37",
+    "@typescript-eslint/eslint-plugin": "^6.8.0",
+    "@typescript-eslint/parser": "^6.8.0",
+    "allure-commandline": "^2.24.0",
+    "allure-playwright": "^2.8.0",
+    "axios": "^1.5.1",
+    "cross-fetch": "^4.0.0",
+    "dotenv": "^16.3.1",
+    "electron": "^25.8.0",
+    "electron-playwright-helpers": "^1.2.2",
+    "eosjs": "^22.1.0",
+    "eslint": "^8.26.0",
+    "eslint-plugin-import": "^2.28.1",
+    "husky": "^8.0.3",
+    "imap-simple": "^5.1.0",
+    "playwright": "^1.39.0",
+    "playwright-core": "^1.39.0",
+    "request": "^2.88.2",
+    "text-encoding": "^0.7.0",
+    "typescript": "^5.2.2"
+  }
+}

@@ -1,0 +1,28 @@
+# compiled output
+dist
+allure-results
+allure-report
+test-results
+test_data/user.data.json
+
+# dependencies
+node_modules
+
+# IDEs and editors
+.idea
+.project
+*.launch
+.settings/
+*.sublime-workspace
+.vscode/*
+!.vscode/settings.json
+!.vscode/tasks.json
+!.vscode/launch.json
+!.vscode/extensions.json
+
+# System Files
+.DS_Store
+Thumbs.db
+
+# misc
+config/config.data.json

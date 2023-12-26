@@ -1,0 +1,122 @@
+{
+  "config": {
+    "APP": {
+      "LAUNCH": "",
+      "NAV": "",
+      "TRANSACTION": ""
+    },
+    "STORE": {
+      "URL": "",
+      "USERNAME": "",
+      "PASSWORD": ""
+    },
+    "MARKETPLACE": {
+      "URL": "",
+      "USERNAME": "",
+      "PASSWORD": "",
+      "TITLE": ""
+    },
+    "TRANSACTION": {
+      "URL": "",
+      "USERNAME": "",
+      "PASSWORD": "",
+      "TITLE": ""
+    },
+    "GDC": {
+      "URL": "",
+      "USERNAME": "",
+      "PASSWORD": ""
+    },
+    "MASTERCENTER": {
+      "URL": "",
+      "MCCOMPANY": "",
+      "USERNAME": "",
+      "PASSWORD": ""
+    },
+    "PROFILESETTINGS": {
+      "URL": "",
+      "USERNAME": "",
+      "PASSWORD": ""
+    },
+    "ULTRACLOUD": {
+      "URL": "",
+      "USERNAME": "",
+      "PASSWORD": ""
+    },
+    "HELPCENTER": {
+      "URL": ""
+    },
+    "API": {
+      "URL": "",
+      "USERNAME": "",
+      "PASSWORD": ""
+    },
+    "WALLET": {
+      "URL": "",
+      "USERNAME": "",
+      "PASSWORD": ""
+    },
+    "TOKENSWAP": {
+      "URL": ""
+    },
+    "KEYCLOAK": {
+      "URL": "",
+      "ACC_URL": "",
+      "USR_URL": "",
+      "USR_COOK": "",
+      "PLTF_GroupGame": "",
+      "TYPE": "",
+      "CLIENTID": "",
+      "CLIENTSECRET": ""
+    },
+    "MONGO": {
+      "URL": ""
+    },
+    "TIMEOUT": 10000,
+    "TWILIO": {
+      "URL": "",
+      "AUTH": ""
+    },
+    "EOSIO": {
+      "URL": "",
+      "KEY": ""
+    },
+    "IMAP": {
+      "USER": "",
+      "PASSWORD": "",
+      "HOST": ""
+    },
+    "CARD": {
+      "NAME": "",
+      "NUMBER": "",
+      "DATE": "",
+      "CODE": "",
+      "PASS": ""
+    },
+    "CREATEGAME": {
+      "URL": ""
+    },
+    "QASE": {
+      "URL": "",
+      "TOKEN": "",
+      "PROJCODE": ""
+    },
+    "TRANSFER": {
+      "AMOUNT": "",
+      "ADDRESS": "",
+      "MEMO": "",
+      "URL": "",
+      "UNIQ_ID": ""
+    },
+    "REDEEM": {
+      "ULTRA_CLOUD": {
+        "ADMIN_USERNAME": "",
+        "ADMIN_PASSWORD": "",
+        "APP_ID": "",
+        "APP_SECRET": ""
+      },
+      "CODE_TYPE": "",
+      "FACTORY_ID": ""
+    }
+  }
+}

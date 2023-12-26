@@ -1,0 +1,143 @@
+{
+    "AccountSettings": {
+      "header": "Personal Info",
+      "GameStoreTermsAndConditions": "Ultra Game Store Terms and Conditions",
+      "copyrightAndTrademarks": "Copyright & Trademarks",
+      "privacyPolicy": "Ultra Privacy Policy",
+      "contentPolicy": "Ultra Content Policy",
+      "gameStoreTermsOfUse": "Ultra Game Store Terms of Use",
+      "marketplaceTermsAndConditions": "UNIQ MARKETPLACE TERMS AND CONDITIONS"
+    },
+    "GDC": {
+      "CompanyMembers": {
+        "verificationInfo": "certified",
+        "gdcHeader": "Members",
+        "userAddStatus": "1 User was added in the company. This user will be displayed in your list after a delay of few seconds"
+      },
+      "GroupAndPrivileges": {
+        "verificationInfo": "certified",
+        "header": "User Groups & Privileges",
+        "info": "Here you can manage your company members groups and privileges.",
+        "emptyGroupMessage": "There is no user in this group yet"
+      },
+      "HelpCenter": {
+        "header": "Documentation",
+        "overview": "Overview",
+        "noteEdit": "NOTE TO EDITORS",
+        "step": "Step By Step Guide",
+        "step1": "Step 1: Getting access to the GDC",
+        "step2": "Step 2: Declaring a game in GDC",
+        "step3": "Step 3: Setting your game store page",
+        "step4": "Step 4: Creating Files Repositories",
+        "step5": "Step 5: Uploading files with FileBeam",
+        "step6": "Step 6: Assembling a Game Build",
+        "step7": "Step 7: Create a compatibility matrix",
+        "step8": "Step 8: Set a branch and then publish builds",
+        "step9": "Step 9: Creating Token Factories"
+      },
+      "UltraCloud": {
+        "teamPanel": "Select Team",
+        "createTeamModal": "Create New Team",
+        "infobox": "Welcome! This is your team's Home page - it gives you quick links to everything you need to get up and running!"
+      },
+      "YourGame": {
+        "verificationInfo": "certified",
+        "header": "Games",
+        "info": "Create, edit, and publish your games."
+      }
+    },
+    "Library": {
+      "header": "My Games",
+      "count": "(1)",
+      "count2": "(2)",
+      "country": "France",
+      "legacyGameTooltip": "This game is not a Uniq yet",
+      "uninstallModalHeader": "Uninstall: ",
+      "uninstallModalBody": "You are about to uninstall ",
+      "uninstallModalBodyQuestion": "Are you sure ?",
+      "defaultGameFolder": "C:\\ProgramData\\Ultra Games",
+      "downloadingLabel": "Downloading",
+      "percentage": "%",
+      "downloadProgress": "(1/1)"
+    },
+    "GameDetails": {
+      "alreadyPurchased": "Already Purchased"
+    },
+    "Marketplace": {
+      "launchpad": "Featured Uniqs",
+      "uniqLaunchpad": "Uniq Launchpad",
+      "uniqMarketplace": "Uniq Marketplace",
+      "headerLaunchpad": "Launchpad Uniqs",
+      "tradability": "This Uniq is tradable forever This Uniq is not tradable",
+      "transferability": " This Uniq can be transferred  This Uniq cannot be transferred ",
+      "availability1": "Maximum",
+      "availability2": "of these Uniqs can be created",
+      "uniqForSale": "Uniqs for sale",
+      "headerMarketplace": "Marketplace Uniqs",
+      "UniqNotFound": "No Marketplace Uniqs found for this search",
+      "UniqNotTransferable": " Your Uniq is currently on Sale on the Marketplace. You need to withdraw it from the Marketplace to Transfer it. "
+    },
+    "Authentication":{
+      "codeErrorMessage": "The code is incorrect.",
+      "codeResendMessage": "A new code has been sent to",
+      "Login": {
+        "keepMeName": "Keep me logged in",
+        "keepMeMessage": "Only enable if your device is private and secure."
+      },
+      "Signup": {
+        "first_step": "1 / 4",
+        "second_step": "2 / 4",
+        "third_step": "3 / 4",
+        "fourth_step": "4 / 4"
+      }
+    },
+    "Store": {
+      "wishList": "Add some games to your wish list to see them pinned here. Browse below to find some awesome titles.",
+      "topCars": "topcars",
+      "tag2022": "2022",
+      "adventure": "adventure",
+      "race": "race",
+      "onlineMultiplayer": "online multiplayer",
+      "racing": "racing",
+      "multiPlayer": "multi-player",
+      "singlePlayer": "single player",
+      "flight": "flight",
+      "rpg": "rpg",
+      "crossPlatform": "cross-platform",
+      "action": "action",
+      "coop": "co-op",
+      "beta": "Beta",
+      "leaderboard": "Leaderboard",
+      "tradable": "Tradable",
+      "vrSupport": "Vr Support"
+    },
+    "TransactionApp": {
+      "emptyBasket": "Nothing in your Basket",
+      "counter": "1"
+    },
+    "Wallet": {
+      "errorMessage": "This field cannot be empty",
+      "swapHeader": "Swap your UOS across networks",
+      "ultraInfo": "1 - Copy the swap URL and open it in your browser2 - In the Dapp, provide the desired destination Ultra Wallet address3 - Sign your Ethereum transaction with your Ethereum Wallet4 - Your tokens will appear in the destination Ultra Wallet within 20 minutes",
+      "ethereumInfo": "1 - Choose the amount of UOS tokens you want to swap to the Ethereum network (50 UOS minimum)2 - Enter the destination Ethereum address",
+      "redeem": {
+        "successMessage": "Uniq successfully added to your inventory.",
+        "notActive": "The code you entered has not been activated yet",
+        "redeemedByOther": "The code you entered has already been redeemed by another user",
+        "redeemedBySelf": "You have already redeemed this code",
+        "redeemInProgress": "You've already redeemed this Uniq and it's being processed"
+      }
+    },
+    "MasterCenter": {
+      "UltraOS": {
+        "companyManagement": "Company Management",
+        "createTheCompany": "Create the company",
+        "userManagement": "User Management",
+        "members": "Members",
+        "companies": "Companies",
+        "addUserPage": "Add user to the company",
+        "userAdded": "The user has been successfully added to the Company."
+      }
+    }
+  }
+  
